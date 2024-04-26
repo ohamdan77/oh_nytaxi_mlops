@@ -18,7 +18,7 @@ include:
 
 # Deployment Target specific values for workspace
 targets:
-  og Name
+  oh_mlops_dev:  # UC Catalog Name
     default: true
     workspace:
       # TODO: add dev workspace URL
